@@ -67,7 +67,7 @@ const luminance = ({text1, height = 400, width = 800}) => `
 			</style>
 			<div class="container">
                 <div class="luminance">
-                    ${text1}
+                    ${text2}
                 </div>
             </div>
         </div>
