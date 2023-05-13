@@ -1,4 +1,4 @@
-const luminance = ({text1, height = 400, width = 800}) => `
+const luminance = ({text2, height = 400, width = 800}) => `
 <svg fill="none" viewBox="0 0 ${width} ${height}" width="${width}" height="${height}" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
