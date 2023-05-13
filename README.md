@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Laravel Jetstream, Laravel Livewire, Alpine.js, Tailwind Css**
 
-- 💬 Ask me about **Laravel**
-
 - 📫 How to reach me **nimnasamitha@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
