@@ -24,7 +24,7 @@ const luminance = ({text1, height = 400, width = 800}) => `
                 -webkit-background-clip: text;
                 background-clip: text;
                 color: transparent;
-                font-size: 10vw;
+                font-size: 5vw;
                 font-family:
 						system-ui,
 						-apple-system,
