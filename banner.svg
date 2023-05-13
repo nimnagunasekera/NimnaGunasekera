@@ -39,18 +39,18 @@
                 }
                 @-webkit-keyframes reveal {
                 80% {
-                    letter-spacing: 8px;
+                    letter-spacing: 5px;
                 }
                 100% {
-                    background-size: 300% 300%;
+                    background-size: 200% 200%;
                 }
                 }
                 @keyframes reveal {
                 80% {
-                    letter-spacing: 8px;
+                    letter-spacing: 5px;
                 }
                 100% {
-                    background-size: 300% 300%;
+                    background-size: 200% 200%;
                 }
                 }
                 @-webkit-keyframes glow {
