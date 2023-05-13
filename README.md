@@ -1,5 +1,5 @@
 <!-- ![MasterHead](https://github.com/NimnaGunasekera/NimnaGunasekera/blob/main/github-header-image.png) -->
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Welcome%20to%20my%20GITHub%20Profile%20🌻&width=1000&height=200)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Welcome%20to%20my%20GITHub%20Profile%20&width=1000&height=200)](https://github.com/Akshay090/svg-banners)
 <h1 align="center">Hi 👋, I'm Nimna Gunasekera</h1>
 <h3 align="center">A passionate software engineering undergraduate</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
