@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Empower Lanka](https://github.com/randeeshapalliyaguruge/EmpowerLanka.git)
 
-- 🌱 I’m currently learning **Laravel Jetstream, Laravel Livewire, Alpine.js, Tailwind Css**
+- 🌱 I’m currently learning **Laravel Jetstream, Laravel Livewire, Alpine.js, Tailwind CSS**
 
 - 📫 How to reach me **nimnasamitha@gmail.com**
 
