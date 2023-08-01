@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Laravel Jetstream, Laravel Livewire, Alpine.js, Tailwind CSS**
 
-- 📫 How to reach me **nimnasamitha@gmail.com**
+- 📫 How to reach me **nimnagunasekera2@gmail.com**
 <br>
 
 <h3 align="left">Connect with me:</h3>
