@@ -17,7 +17,7 @@
 
 ###
 
-![loop](https://github.com/user-attachments/assets/3659e909-5110-47b1-9acf-8073682ae7f9)
+<img align="right" height="150" src="https://i.pinimg.com/originals/aa/48/46/aa4846d84035bb97903a10edfe0f22e9.gif" autoplay="true" />
 
 ###
 
