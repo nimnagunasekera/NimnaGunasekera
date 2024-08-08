@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nimna Gunasekera</h1>
-<h3 align="center">A software engineering undergraduate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimnagunasekera&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="nimnagunasekera" /> </p>
 
@@ -8,7 +7,6 @@
 - 🌱 I’m currently learning **Laravel Jetstream, Laravel Livewire, Alpine.js, Tailwind CSS**
 
 - 📫 How to reach me **nimnagunasekera2@gmail.com**
-<br>
 
 ###
 
