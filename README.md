@@ -1,17 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nimna Gunasekera</h1>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=nimnagunasekera&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views" />
-</p>
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/nimna-gunasekera-17b546255/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn" />
-  </a>
-  <a href="mailto:nimnagunasekera2@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="Gmail" />
-  </a>
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nimnagunasekera&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="nimnagunasekera" /> </p>
 
 <!--  - 🔭 I’m currently working on [Empower Lanka](https://github.com/randeeshapalliyaguruge/EmpowerLanka.git)
 
@@ -23,7 +12,6 @@
 
 - 🌱 Web Developer | Machine Learning Enthusiast | Gamer
 - 🔭 Currently building and contributing to impactful projects
-- 📫 Reach me at **nimnagunasekera2@gmail.com**
 
 ###
 
