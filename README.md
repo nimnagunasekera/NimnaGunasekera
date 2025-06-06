@@ -1,19 +1,36 @@
 <h1 align="center">Hi 👋, I'm Nimna Gunasekera</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nimnagunasekera&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="nimnagunasekera" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=nimnagunasekera&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+</p>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/nimna-gunasekera-17b546255/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="mailto:nimnagunasekera2@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="Gmail" />
+  </a>
+</div>
 
 <!--  - 🔭 I’m currently working on [Empower Lanka](https://github.com/randeeshapalliyaguruge/EmpowerLanka.git)
 
-- 🌱 I’m currently learning **Laravel Jetstream, Laravel Livewire, Alpine.js, Tailwind CSS** -->
+- 🌱 I’m currently learning **Laravel Jetstream, Laravel Livewire, Alpine.js, Tailwind CSS** 
 
-- 📫 How to reach me **nimnagunasekera2@gmail.com**
+- 📫 How to reach me **nimnagunasekera2@gmail.com** -->
+
+### About Me
+
+- 🌱 Web Developer | Machine Learning Enthusiast | Gamer
+- 🔭 Currently building and contributing to impactful projects
+- 📫 Reach me at **nimnagunasekera2@gmail.com**
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nimnagunasekera&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-<!--   <img src="https://streak-stats.demolab.com?user=nimnagunasekera&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  /> -->
-</div>
+<!-- <div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nimnagunasekera&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> -->
+<!--   <img src="https://streak-stats.demolab.com?user=nimnagunasekera&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  /> 
+</div> -->
 
 ###
 
